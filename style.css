@@ -1,8 +1,8 @@
 body {
-    background-color: rgba(0, 255, 255, 0.493);
+    background-color: rgba(143, 148, 148, 0.493);
 }
 h1 { 
-    color: blue;
+    color: rgb(62, 62, 66);
     font-size: 50px;
     text-align: center;
 }
